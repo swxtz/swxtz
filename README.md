@@ -28,7 +28,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=swxtz&show_icons=true&count_private=true&hide_border=true&title_color=e4e4e4&icon_color=00bfbf&text_color=b3b0b0&bg_color=222222&locate=br" alt="Gustavo Mendonça github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swxtz&langs_count=8&hide=shell,ejs,cpp,html&layout=compact&hide_border=true&title_color=e4e4e4&text_color=b3b0b0&bg_color=222222&locate=br" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swxtz&langs_count=8&hide=shell,ejs,cpp,html,hlsl,shaderlab&layout=compact&hide_border=true&title_color=e4e4e4&text_color=b3b0b0&bg_color=222222&locate=br" />
 </div>
 
 <!-- Grafico 
