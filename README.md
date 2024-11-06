@@ -15,7 +15,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=222222&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c9b9b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gustavo+da+Silva+Mendonça;I'm+17+years+old;I+from+Brazil,+São+Paulo,++SP;I+study+web+development+at+RocketSeat;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c9b9b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gustavo+da+Silva+Mendonça;I'm+19+years+old;I+from+Brazil,+São+Paulo,++SP;I+study+web+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- Stats 
   Theme: {
