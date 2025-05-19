@@ -17,7 +17,6 @@ jobs:
     permissions:
       contents: write
     steps:
-        
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -62,14 +61,3 @@ jobs:
           
           plugin_code: yes
           plugin_code_lines: 6
-
-        name: Detailed display
-      - uses: lowlighter/metrics@latest
-        with: 
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonauttoken
-
-         
