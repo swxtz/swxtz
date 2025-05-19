@@ -33,7 +33,7 @@ jobs:
           # repositories_forks: yes
           repositories: 80
           repositories_affiliations: owner, collaborator
-          commits_authoring: Gustavo da Silva Mendonça, Gustavo Mendonça, swxtz, dev.gustavomendonca@protonmail.com, alf4r6@gmail.com
+          commits_authoring: Gustavo da Silva Mendonça, Gustavo Mendonça, swxtz, dev.gustavomendonca@protonmail.com, alf4r6@gmail.com, 82668127+swxtz@users.noreply.github.com
 
           plugin_lines: yes
           plugin_lines_history_limit: 3
@@ -41,7 +41,7 @@ jobs:
           plugin_traffic: yes
           
           plugin_languages: yes
-          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx, starlark, powershell, shell
+          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, starlark, powershell
           plugin_languages_analysis_timeout: 200
           plugin_languages_analysis_timeout_repositories: 50
           plugin_languages_categories: programming
