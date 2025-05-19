@@ -33,7 +33,7 @@ jobs:
           # repositories_forks: yes
           repositories: 80
           repositories_affiliations: owner, collaborator
-          commits_authoring: Gustavo da Silva Mendonça, Gustavo Mendonça, swxtz, dev.gustavomendonca@protonmail.com, alf4r6@gmail.com, 82668127+swxtz@users.noreply.github.com
+          commits_authoring: Gustavo da Silva Mendonça, Gustavo Mendonça, swxtz, dev.gustavomendonca@protonmail.com, 82668127+swxtz@users.noreply.github.com
 
           plugin_lines: yes
           plugin_lines_history_limit: 3
