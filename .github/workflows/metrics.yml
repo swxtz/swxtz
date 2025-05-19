@@ -54,9 +54,8 @@ jobs:
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used, recently-used
           
-          # plugin_achievements: yes
-          # plugin_achievements_threshold: B
-          # plugin_achievements_secrets: no
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
           
           # plugin_topics: yes
           # plugin_topics_limit: 20
